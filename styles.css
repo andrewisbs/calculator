@@ -28,3 +28,6 @@
     size: initial;
     justify-content: center;
 }
+.clear-buttons {
+    width: 400px;
+}
