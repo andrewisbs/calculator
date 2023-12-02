@@ -1,0 +1,30 @@
+* {
+    color: red;
+}
+.calculator {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.buttons {
+    display: flex;
+    flex-wrap:wrap;
+    width:400px;
+    align-self:center;
+}
+.calc-buttons {
+    width: 100px;
+    height: 100px;
+    font-family:fantasy;
+    font-size: 40px;
+    font-weight: 700;
+}
+.display {
+    border-style: solid;
+    border: 5px solid;
+    border-color: black;
+    width: 400px;
+    height: 100px;
+    size: initial;
+    justify-content: center;
+}
