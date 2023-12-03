@@ -37,7 +37,6 @@ p {
     border-color: black;
     width: 400px;
     height: 100px;
-    size: initial;
     justify-content: end;
     display: flex;
 }
